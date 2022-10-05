@@ -1,0 +1,15 @@
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\bin\Debug\net6.0\HoradelDia.exe
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\bin\Debug\net6.0\HoradelDia.deps.json
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\bin\Debug\net6.0\HoradelDia.runtimeconfig.json
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\bin\Debug\net6.0\HoradelDia.dll
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\bin\Debug\net6.0\HoradelDia.pdb
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.AssemblyInfoInputs.cache
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.AssemblyInfo.cs
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.dll
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\refint\HoradelDia.dll
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.pdb
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\HoradelDia.genruntimeconfig.cache
+C:\Users\uriel\source\repos\HoradelDia\HoradelDia\obj\Debug\net6.0\ref\HoradelDia.dll

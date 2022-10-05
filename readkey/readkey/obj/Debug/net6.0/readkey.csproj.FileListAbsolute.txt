@@ -1,0 +1,15 @@
+C:\Users\uriel\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.exe
+C:\Users\uriel\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.deps.json
+C:\Users\uriel\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.runtimeconfig.json
+C:\Users\uriel\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.dll
+C:\Users\uriel\source\repos\readkey\readkey\bin\Debug\net6.0\readkey.pdb
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.AssemblyInfoInputs.cache
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.AssemblyInfo.cs
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.dll
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\refint\readkey.dll
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.pdb
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\readkey.genruntimeconfig.cache
+C:\Users\uriel\source\repos\readkey\readkey\obj\Debug\net6.0\ref\readkey.dll

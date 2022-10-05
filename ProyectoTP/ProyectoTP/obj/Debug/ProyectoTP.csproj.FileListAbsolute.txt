@@ -1,0 +1,14 @@
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\bin\Debug\ProyectoBasedeDatos.mdf
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\bin\Debug\ProyectoBasedeDatos_log.ldf
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\bin\Debug\ProyectoTP.exe.config
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\bin\Debug\ProyectoTP.exe
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\bin\Debug\ProyectoTP.pdb
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.DetallesContacts.resources
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.Properties.Resources.resources
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.csproj.GenerateResource.cache
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.exe
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.pdb
+E:\VisualStudio\repos\ProyectoTP\ProyectoTP\obj\Debug\ProyectoTP.Main.resources

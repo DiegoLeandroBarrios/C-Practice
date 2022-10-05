@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\TpLab2022\TpLab2022\bin\Debug\BasedeDatosUniversidad.mdf
+E:\VisualStudio\repos\TpLab2022\TpLab2022\bin\Debug\BasedeDatosUniversidad_log.ldf
+E:\VisualStudio\repos\TpLab2022\TpLab2022\bin\Debug\TpLab2022.exe.config
+E:\VisualStudio\repos\TpLab2022\TpLab2022\bin\Debug\TpLab2022.exe
+E:\VisualStudio\repos\TpLab2022\TpLab2022\bin\Debug\TpLab2022.pdb
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.Form1.resources
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.Properties.Resources.resources
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.csproj.GenerateResource.cache
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.exe
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.pdb
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.Personas.resources
+E:\VisualStudio\repos\TpLab2022\TpLab2022\obj\Debug\TpLab2022.PersonasVer.resources

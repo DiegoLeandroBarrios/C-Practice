@@ -1,0 +1,15 @@
+C:\Users\uriel\source\repos\Iteradores\Iteradores\bin\Debug\net6.0\Iteradores.exe
+C:\Users\uriel\source\repos\Iteradores\Iteradores\bin\Debug\net6.0\Iteradores.deps.json
+C:\Users\uriel\source\repos\Iteradores\Iteradores\bin\Debug\net6.0\Iteradores.runtimeconfig.json
+C:\Users\uriel\source\repos\Iteradores\Iteradores\bin\Debug\net6.0\Iteradores.dll
+C:\Users\uriel\source\repos\Iteradores\Iteradores\bin\Debug\net6.0\Iteradores.pdb
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.AssemblyInfoInputs.cache
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.AssemblyInfo.cs
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.dll
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\refint\Iteradores.dll
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.pdb
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\Iteradores.genruntimeconfig.cache
+C:\Users\uriel\source\repos\Iteradores\Iteradores\obj\Debug\net6.0\ref\Iteradores.dll
