@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\bin\Debug\net6.0\EstLINQ2.exe
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\bin\Debug\net6.0\EstLINQ2.deps.json
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\bin\Debug\net6.0\EstLINQ2.runtimeconfig.json
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\bin\Debug\net6.0\EstLINQ2.dll
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\bin\Debug\net6.0\EstLINQ2.pdb
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.AssemblyInfo.cs
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.dll
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\refint\EstLINQ2.dll
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.pdb
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\EstLINQ2.genruntimeconfig.cache
+E:\VisualStudio\repos\EstLINQ2\EstLINQ2\obj\Debug\net6.0\ref\EstLINQ2.dll

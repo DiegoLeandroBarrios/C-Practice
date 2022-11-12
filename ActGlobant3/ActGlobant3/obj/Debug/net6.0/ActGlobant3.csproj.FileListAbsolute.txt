@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\bin\Debug\net6.0\ActGlobant3.exe
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\bin\Debug\net6.0\ActGlobant3.deps.json
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\bin\Debug\net6.0\ActGlobant3.runtimeconfig.json
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\bin\Debug\net6.0\ActGlobant3.dll
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\bin\Debug\net6.0\ActGlobant3.pdb
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.AssemblyInfo.cs
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.dll
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\refint\ActGlobant3.dll
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.pdb
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ActGlobant3.genruntimeconfig.cache
+E:\VisualStudio\repos\ActGlobant3\ActGlobant3\obj\Debug\net6.0\ref\ActGlobant3.dll
