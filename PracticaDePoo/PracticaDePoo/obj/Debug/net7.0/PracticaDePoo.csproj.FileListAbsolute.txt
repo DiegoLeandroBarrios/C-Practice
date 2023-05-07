@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\bin\Debug\net7.0\PracticaDePoo.exe
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\bin\Debug\net7.0\PracticaDePoo.deps.json
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\bin\Debug\net7.0\PracticaDePoo.runtimeconfig.json
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\bin\Debug\net7.0\PracticaDePoo.dll
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\bin\Debug\net7.0\PracticaDePoo.pdb
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.AssemblyInfo.cs
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.dll
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\refint\PracticaDePoo.dll
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.pdb
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\PracticaDePoo.genruntimeconfig.cache
+E:\VisualStudio\repos\PracticaDePoo\PracticaDePoo\obj\Debug\net7.0\ref\PracticaDePoo.dll

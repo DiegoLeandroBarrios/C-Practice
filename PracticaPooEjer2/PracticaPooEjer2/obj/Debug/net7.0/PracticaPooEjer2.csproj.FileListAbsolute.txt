@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\bin\Debug\net7.0\PracticaPooEjer2.exe
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\bin\Debug\net7.0\PracticaPooEjer2.deps.json
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\bin\Debug\net7.0\PracticaPooEjer2.runtimeconfig.json
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\bin\Debug\net7.0\PracticaPooEjer2.dll
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\bin\Debug\net7.0\PracticaPooEjer2.pdb
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.AssemblyInfo.cs
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.dll
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\refint\PracticaPooEjer2.dll
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.pdb
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\PracticaPooEjer2.genruntimeconfig.cache
+E:\VisualStudio\repos\PracticaPooEjer2\PracticaPooEjer2\obj\Debug\net7.0\ref\PracticaPooEjer2.dll

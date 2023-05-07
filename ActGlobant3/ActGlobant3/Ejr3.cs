@@ -72,7 +72,7 @@ namespace ActGlobant3
         /// <returns></returns>
         public int Repeated()
         {
-            var groups = numeros.GroupBy(x => x);//ordenar el objeto entero
+            var groups = numeros.GroupBy(x => x);//ordenar el objeto entero.
             var largest = groups.OrderByDescending(x => x.Count()).First();
 
             return largest.Key.Numero;

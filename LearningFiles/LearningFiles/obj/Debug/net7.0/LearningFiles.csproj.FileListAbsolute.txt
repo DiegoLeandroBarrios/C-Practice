@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\LearningFiles\LearningFiles\bin\Debug\net7.0\LearningFiles.exe
+E:\VisualStudio\repos\LearningFiles\LearningFiles\bin\Debug\net7.0\LearningFiles.deps.json
+E:\VisualStudio\repos\LearningFiles\LearningFiles\bin\Debug\net7.0\LearningFiles.runtimeconfig.json
+E:\VisualStudio\repos\LearningFiles\LearningFiles\bin\Debug\net7.0\LearningFiles.dll
+E:\VisualStudio\repos\LearningFiles\LearningFiles\bin\Debug\net7.0\LearningFiles.pdb
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.AssemblyInfo.cs
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.dll
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\refint\LearningFiles.dll
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.pdb
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\LearningFiles.genruntimeconfig.cache
+E:\VisualStudio\repos\LearningFiles\LearningFiles\obj\Debug\net7.0\ref\LearningFiles.dll

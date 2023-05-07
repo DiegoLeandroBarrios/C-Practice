@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\DataType\consola1\bin\Debug\net7.0\consola1.exe
+E:\VisualStudio\repos\DataType\consola1\bin\Debug\net7.0\consola1.deps.json
+E:\VisualStudio\repos\DataType\consola1\bin\Debug\net7.0\consola1.runtimeconfig.json
+E:\VisualStudio\repos\DataType\consola1\bin\Debug\net7.0\consola1.dll
+E:\VisualStudio\repos\DataType\consola1\bin\Debug\net7.0\consola1.pdb
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.AssemblyInfo.cs
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.dll
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\refint\consola1.dll
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.pdb
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\consola1.genruntimeconfig.cache
+E:\VisualStudio\repos\DataType\consola1\obj\Debug\net7.0\ref\consola1.dll

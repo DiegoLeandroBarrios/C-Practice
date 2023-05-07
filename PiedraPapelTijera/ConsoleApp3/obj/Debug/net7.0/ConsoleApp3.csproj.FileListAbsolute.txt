@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+E:\VisualStudio\repos\PiedraPapelTijera\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll

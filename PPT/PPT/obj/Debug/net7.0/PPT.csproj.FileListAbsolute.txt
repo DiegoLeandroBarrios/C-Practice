@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\PPT\PPT\bin\Debug\net7.0\PPT.exe
+E:\VisualStudio\repos\PPT\PPT\bin\Debug\net7.0\PPT.deps.json
+E:\VisualStudio\repos\PPT\PPT\bin\Debug\net7.0\PPT.runtimeconfig.json
+E:\VisualStudio\repos\PPT\PPT\bin\Debug\net7.0\PPT.dll
+E:\VisualStudio\repos\PPT\PPT\bin\Debug\net7.0\PPT.pdb
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.AssemblyInfo.cs
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.dll
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\refint\PPT.dll
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.pdb
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\PPT.genruntimeconfig.cache
+E:\VisualStudio\repos\PPT\PPT\obj\Debug\net7.0\ref\PPT.dll

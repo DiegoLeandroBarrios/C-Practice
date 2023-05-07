@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\bin\Debug\net7.0\ColeccionesVarias.exe
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\bin\Debug\net7.0\ColeccionesVarias.deps.json
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\bin\Debug\net7.0\ColeccionesVarias.runtimeconfig.json
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\bin\Debug\net7.0\ColeccionesVarias.dll
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\bin\Debug\net7.0\ColeccionesVarias.pdb
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.AssemblyInfo.cs
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.dll
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\refint\ColeccionesVarias.dll
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.pdb
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ColeccionesVarias.genruntimeconfig.cache
+E:\VisualStudio\repos\ColeccionesVarias\ColeccionesVarias\obj\Debug\net7.0\ref\ColeccionesVarias.dll

@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\CStack\CStack\bin\Debug\net7.0\CStack.exe
+E:\VisualStudio\repos\CStack\CStack\bin\Debug\net7.0\CStack.deps.json
+E:\VisualStudio\repos\CStack\CStack\bin\Debug\net7.0\CStack.runtimeconfig.json
+E:\VisualStudio\repos\CStack\CStack\bin\Debug\net7.0\CStack.dll
+E:\VisualStudio\repos\CStack\CStack\bin\Debug\net7.0\CStack.pdb
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.AssemblyInfo.cs
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.dll
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\refint\CStack.dll
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.pdb
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\CStack.genruntimeconfig.cache
+E:\VisualStudio\repos\CStack\CStack\obj\Debug\net7.0\ref\CStack.dll

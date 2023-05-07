@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\bin\Debug\net7.0\DemoEjercicio.exe
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\bin\Debug\net7.0\DemoEjercicio.deps.json
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\bin\Debug\net7.0\DemoEjercicio.runtimeconfig.json
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\bin\Debug\net7.0\DemoEjercicio.dll
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\bin\Debug\net7.0\DemoEjercicio.pdb
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.AssemblyInfo.cs
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.dll
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\refint\DemoEjercicio.dll
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.pdb
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\DemoEjercicio.genruntimeconfig.cache
+E:\VisualStudio\repos\DemoEjercicio\DemoEjercicio\obj\Debug\net7.0\ref\DemoEjercicio.dll
